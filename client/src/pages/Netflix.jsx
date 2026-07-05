@@ -22,7 +22,7 @@ const netflixPlans = [
     id: "netflix-1m",
     name: "1 MONTH PLAN",
     durationText: "1 Month 1 Screen Access",
-    price: 99,
+    price: 79,
     badge: "STARTER TIER",
     badgeColor: "bg-zinc-800 text-zinc-400 border-zinc-700",
     savingsText: "Save ₹550 on one month",
